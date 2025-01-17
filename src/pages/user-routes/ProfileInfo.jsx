@@ -74,10 +74,10 @@ function ProfileInfo() {
               <tbody>
                 <tr>
                   <td >
-                    LCWDBlLOGS ID
+                     ID
                   </td>
                   <td>
-                    LCWD{user.id}
+                    {user.id}
                   </td>
                 </tr>
                 <tr>
